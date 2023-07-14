@@ -1,0 +1,3 @@
+multipoles==0.3.4
+jupyter
+numpy
